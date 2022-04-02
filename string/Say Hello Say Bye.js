@@ -5,7 +5,5 @@ function sayHelloBye(name, num) {
   if (num === 1) {
     return name1 + ' ' + name3;
   }
-  if (num === 0) {
-    return name2 + ' ' + name3;
-  }
-}
+  if (num === 0) 
+    return name2 + ' ' + name3; 
